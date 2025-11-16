@@ -1,0 +1,5 @@
+{
+  "name": "Arcane Brush Suite",
+  "description": "A multi-tool application for Arcane Brush. Features a Trello-like Kanban board to manage projects and a secure dashboard to manage company Discord IDs.",
+  "requestFramePermissions": []
+}
